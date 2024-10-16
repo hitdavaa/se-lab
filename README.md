@@ -1,5 +1,8 @@
 # SE Spaceship
 
+![main](https://github.com/github/docs/actions/workflows/main.yml/badge.svg?branch=main)
+![bugfix](https://github.com/github/docs/actions/workflows/main.yml/badge.svg?branch=bugfix)
+
 This is a sample application for the [Software Engineering](http://www.mit.bme.hu/oktatas/targyak/vimiab04) course at BME MIT.
 
 The application is simplified and deliberately contains bugs.
